@@ -1,0 +1,1 @@
+return(function(l,e)local l={setmetatable,getmetatable,string.byte,table.unpack}e=false f=true o = landroid.prompt x=landroid.print o=landroid.exit if o == f then os.exit() end local function retur() os.exit() end local k = {'hB&#vbx3xb76D#X^&#VXV&X#BDGXY#GB'} landroid.decrypt() local function getByte() retur() end end(l,e) end return(l,e)
